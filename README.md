@@ -1,2 +1,2 @@
 # mhw2
- mini homework 2
+Mini Homework 2 Emanuela Tedesco UniCT
